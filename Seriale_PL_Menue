@@ -5,7 +5,7 @@
 <name>[B]Alternatywy 4[/B]</name> 
 <thumbnail></thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Alternatywy_4.m3u</externallink> 
-<fanart></fanart> 
+<fanart>https://i.iplsc.com/andnbsp-blok-znany-z-serialu-alternatywy-4-obecnie-miesci-si/0000XW0QTTP394QE-C122-F4.jpg</fanart> 
 <info></info> 
 </channel>
 
@@ -14,6 +14,15 @@
 <name>[B]Gra o Tron[/B]</name> 
 <thumbnail></thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Gra_o_Tron.m3u</externallink> 
+<fanart>https://images-na.ssl-images-amazon.com/images/I/A1vvzKWhbwL.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B][/B]</name> 
+<thumbnail></thumbnail> 
+<externallink></externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel>
@@ -24,5 +33,32 @@
 <thumbnail></thumbnail> 
 <externallink></externallink> 
 <fanart></fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B][/B]</name> 
+<thumbnail></thumbnail> 
+<externallink></externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Sukcesja[/B]</name> 
+<thumbnail></thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Sukcesja.m3u</externallink> 
+<fanart>https://fwcdn.pl/fpo/94/56/779456/7845605.3.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]The Long Song[/B]</name> 
+<thumbnail></thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_The%20long%20song.m3u</externallink> 
+<fanart>https://2.bp.blogspot.com/-q6VBkiXYvk4/XDynbw_N8EI/AAAAAAABsbg/W_kpspBD4jk-60vUJStLg1ef4-TI0udRACLcBGAs/s1600/8J2ci62.jpg</fanart> 
 <info></info> 
 </channel>
