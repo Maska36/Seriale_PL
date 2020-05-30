@@ -9,6 +9,16 @@
 <info></info> 
 </channel>
 
+
+<channels> 
+<channel> 
+<name>[B]Czarne Chmury[/B]</name> 
+<thumbnail>https://static.punkt44.pl/grafika/produkty/midi/8801_0003.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Czarne_Chmury.m3u</externallink> 
+<fanart>https://static.punkt44.pl/grafika/produkty/midi/8801_0003.jpg</fanart> 
+<info></info> 
+</channel>
+
 <channels> 
 <channel> 
 <name>[B]Gra o Tron[/B]</name> 
