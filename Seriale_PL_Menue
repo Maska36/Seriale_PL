@@ -21,6 +21,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Czterej Pancerni i Pies[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/51/55/35155/7671049.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Czterej_Pancerni.m3u</externallink> 
+<fanart>https://fwcdn.pl/fpo/51/55/35155/7671049.3.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Gra o Tron[/B]</name> 
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/A1vvzKWhbwL.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Gra_o_Tron.m3u</externallink> 
