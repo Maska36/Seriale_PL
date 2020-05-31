@@ -57,6 +57,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Stawka większa niż życie[/B]</name> 
+<thumbnail>https://media.merlin.pl/media/original/000/004/093/56ba961258ae8.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_StawkaWieksza.m3u</externallink> 
+<fanart>https://media.merlin.pl/media/original/000/004/093/56ba961258ae8.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B][/B]</name> 
 <thumbnail></thumbnail> 
 <externallink></externallink> 
@@ -93,6 +102,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Tulipan[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/12/44/11244/7317254.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Tulipan.m3u</externallink> 
+<fanart>https://fwcdn.pl/fpo/12/44/11244/7317254.3.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Upload[/B]</name> 
 <thumbnail>https://st.kp.yandex.net/images/film_iphone/iphone360_1127489.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Upload.m3u</externallink> 
@@ -106,6 +124,15 @@
 <thumbnail>https://www.newsslash.com/images/upload/tag_teaser/5060-wataha.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Wataha.m3u</externallink> 
 <fanart>https://www.newsslash.com/images/upload/tag_teaser/5060-wataha.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Zmiennicy[/B]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w500/rcXq4QnzsmG5UdJnFxMSVbnpcnT.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Zmiennicy.m3u</externallink> 
+<fanart>https://image.tmdb.org/t/p/w500/rcXq4QnzsmG5UdJnFxMSVbnpcnT.jpg</fanart> 
 <info></info> 
 </channel>
 
