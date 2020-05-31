@@ -30,6 +30,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Inhumans[/B]</name> 
+<thumbnail>https://i1.fdbimg.pl/ccn5m0x1_ougm72.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Inhumans.m3u</externallink> 
+<fanart>https://m.media-amazon.com/images/M/MV5BZjI0ODcwODAtYzZjOS00ZmQ3LWE4ZGItOWMwYTI0Y2YyYWMyXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Janosik[/B]</name> 
 <thumbnail>https://i8.lisimg.com/6728038/280full.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Janosik.m3u</externallink> 
