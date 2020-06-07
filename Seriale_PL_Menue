@@ -66,6 +66,15 @@
 
 <channels> 
 <channel> 
+<name>[B]See[/B]</name> 
+<thumbnail>   </thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_See.m3u</externallink> 
+<fanart>   </fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Stawka większa niż życie[/B]</name> 
 <thumbnail>https://media.merlin.pl/media/original/000/004/093/56ba961258ae8.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_StawkaWieksza.m3u</externallink> 
