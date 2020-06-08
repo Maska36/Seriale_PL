@@ -67,9 +67,9 @@
 <channels> 
 <channel> 
 <name>[B]See[/B]</name> 
-<thumbnail>   </thumbnail> 
+<thumbnail>https://fwcdn.pl/fpo/96/47/839647/7903503.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_See.m3u</externallink> 
-<fanart>   </fanart> 
+<fanart>https://i.ytimg.com/vi/7Rg0y7NT1gU/maxresdefault.jpg</fanart> 
 <info></info> 
 </channel>
 
@@ -97,6 +97,15 @@
 <thumbnail>https://fwcdn.pl/fpo/94/56/779456/7845605.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Sukcesja.m3u</externallink> 
 <fanart>https://fwcdn.pl/fpo/94/56/779456/7845605.3.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Szadź[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/21/85/842185/7920842.6.jpg</thumbnail> 
+<externallink></externallink> 
+<fanart>https://i.ytimg.com/vi/IDLUyZapiBI/maxresdefault.jpg</fanart> 
 <info></info> 
 </channel>
 
