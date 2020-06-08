@@ -2,6 +2,15 @@
 
 <channels> 
 <channel> 
+<name>[B]07 Zgłoś Się[/B]</name> 
+<thumbnail>https://image.ceneostatic.pl/data/products/1189190/i-07-zglos-sie-dvd.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_07_Zg%C5%82o%C5%9B_si%C4%99.m3u</externallink> 
+<fanart>https://www.sideone.pl/pol_pl_07-zglos-sie-180g-LIMITED-22397_1.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Alternatywy 4[/B]</name> 
 <thumbnail>https://i.iplsc.com/andnbsp-blok-znany-z-serialu-alternatywy-4-obecnie-miesci-si/0000XW0QTTP394QE-C122-F4.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Alternatywy_4.m3u</externallink> 
@@ -30,6 +39,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Daleko od Szosy[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/50/24/35024/7057974.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Daleko_od_Szosy.m3u</externallink> 
+<fanart>https://i.ytimg.com/vi/DTgKcMvmNh0/maxresdefault.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Gra o Tron[/B]</name> 
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/A1vvzKWhbwL.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Gra_o_Tron.m3u</externallink> 
@@ -48,10 +66,28 @@
 
 <channels> 
 <channel> 
+<name>[B]Jak Rozpetalem II Wojnę światową[/B]</name> 
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91wOqe2B30L._SL1500_.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Jak_Rozpetalem_II_Wojn%C4%99_%C5%9Bwiatow%C4%85.m3u</externallink> 
+<fanart>https://www.gry-online.pl/Galeria/Html/Poradniki/362/14570281.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Janosik[/B]</name> 
 <thumbnail>https://i8.lisimg.com/6728038/280full.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Janosik.m3u</externallink> 
 <fanart>https://i8.lisimg.com/6728038/280full.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Kariera Nikodema Dyzmy[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/58/60/35860/7290277.6.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Nikodema_Dyzmy.m3u</externallink> 
+<fanart>https://static.serialnet.pl/thumbs/kariera-nikodema-dyzmy.jpg</fanart> 
 <info></info> 
 </channel>
 
