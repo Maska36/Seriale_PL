@@ -102,6 +102,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Projekt Niewinność[/B]</name> 
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzNjYWI4MzYtMDI5Ni00Y2IyLTk4MGYtMGNlYmJlMjMwMGY0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Projekt_Niewinno%C5%9B%C4%87.m3u</externallink> 
+<fanart>https://zalukaj.vip/wp-content/uploads/2020/04/Projekt-niewinno%C5%9B%C4%87.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]The Mandalorian[/B]</name> 
 <thumbnail>https://www.kinoundco.de/media/images/landscape_l/ximage.jpg.pagespeed.ic.9wcXiCClz5.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Mandalorian.m3u</externallink> 
