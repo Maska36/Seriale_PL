@@ -66,6 +66,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Hollywood[/B]</name> 
+<thumbnail>https://ssl-gfx.filmweb.pl/po/30/64/833064/7915246.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Hollywood.m3u</externallink> 
+<fanart>https://societytexas.com/wp-content/uploads/2020/05/Hollywood-banner-1080x675.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Inhumans[/B]</name> 
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjI0ODcwODAtYzZjOS00ZmQ3LWE4ZGItOWMwYTI0Y2YyYWMyXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Inhumans.m3u</externallink> 
