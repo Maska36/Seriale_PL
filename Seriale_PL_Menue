@@ -18,6 +18,15 @@
 <info></info> 
 </channel>
 
+<channels> 
+<channel> 
+<name>[B]Brytania[/B]</name> 
+<thumbnail>https://ssl-gfx.filmweb.pl/po/96/16/769616/7833954.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Brytania.m3u</externallink> 
+<fanart>https://www.tvqc.com/wp-content/uploads/2018/01/1185_665_2000_britannia_121326.jpg</fanart> 
+<info></info> 
+</channel>
+
 
 <channels> 
 <channel> 
