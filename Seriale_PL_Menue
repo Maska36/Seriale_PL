@@ -27,6 +27,14 @@
 <info></info> 
 </channel>
 
+<channels> 
+<channel> 
+<name>[B]Chylka - Zaginiecie[/B]</name> 
+<thumbnail>https://ssl-gfx.filmweb.pl/po/25/39/812539/7870443.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Chylka_Zaginiecie.m3u</externallink> 
+<fanart>https://ocdn.eu/images/pulscms/NjI7MDA_/27105d569602e99784a820bc5f274c4a.jpeg</fanart> 
+<info></info> 
+</channel>
 
 <channels> 
 <channel> 
@@ -34,6 +42,15 @@
 <thumbnail>https://static.punkt44.pl/grafika/produkty/midi/8801_0003.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Czarne_Chmury.m3u</externallink> 
 <fanart>https://static.punkt44.pl/grafika/produkty/midi/8801_0003.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Czarnobyl[/B]</name> 
+<thumbnail>https://www.gloskultury.pl/wp-content/uploads/2019/06/Czarnobyl-plakat.jpg</thumbnail> 
+<externallink>https://github.com/anton432/M3U/blob/master/Serial_Czarnobyl.m3u</externallink> 
+<fanart>https://adeste.org/wp-content/uploads/2019/06/maxresdefault.jpg</fanart> 
 <info></info> 
 </channel>
 
@@ -52,6 +69,15 @@
 <thumbnail>https://fwcdn.pl/fpo/50/24/35024/7057974.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Daleko_od_Szosy.m3u</externallink> 
 <fanart>https://i.ytimg.com/vi/DTgKcMvmNh0/maxresdefault.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Gangs of London[/B]</name> 
+<thumbnail>https://pics.filmaffinity.com/Gangs_of_London_Serie_de_TV-304974754-large.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Gangs%20_of_London.m3u</externallink> 
+<fanart>https://www.augsburger-allgemeine.de/img/panorama/crop57479231/581956316-cv16_9-w940/16-9-KA-01-GOL-S01-SO.jpg</fanart> 
 <info></info> 
 </channel>
 
@@ -111,10 +137,28 @@
 
 <channels> 
 <channel> 
+<name>[B]List do Mojego Idola - DEAR[/B]</name> 
+<thumbnail>https://alltube.com.pl/static/img/covers/23353.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_List_do_Mojego_Idola_DEAR.m3u</externallink> 
+<fanart>https://is1-ssl.mzstatic.com/image/thumb/IUA7eMHRfHKyiL7xw-borg/1200x630.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Kariera Nikodema Dyzmy[/B]</name> 
 <thumbnail>https://fwcdn.pl/fpo/58/60/35860/7290277.6.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Nikodema_Dyzmy.m3u</externallink> 
 <fanart>https://static.serialnet.pl/thumbs/kariera-nikodema-dyzmy.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Pakt[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/66/14/736614/7766128.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Pakt.m3u</externallink> 
+<fanart>https://www.hbo.pl/pakt/wp-content/uploads/2016/05/main_desktop5-1.jpg</fanart> 
 <info></info> 
 </channel>
 
@@ -133,6 +177,42 @@
 <thumbnail>https://www.kinoundco.de/media/images/landscape_l/ximage.jpg.pagespeed.ic.9wcXiCClz5.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Mandalorian.m3u</externallink> 
 <fanart>https://n-cdn.serienjunkies.de/hq/100611.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Narcos[/B]</name> 
+<thumbnail>https://scdn.nflximg.net/images/9810/21939810.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Narcos.m3u</externallink> 
+<fanart>https://nex24.news/wp-content/uploads/2019/06/narcos.escobar.nex24.netflix.shot_.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Narcos: Meksyk[/B]</name> 
+<thumbnail>https://posterspy.com/wp-content/uploads/2019/01/upload-NARCOS-80424-copy-800x1062.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Narcos_Meksyk.m3u</externallink> 
+<fanart>https://www.vitalthrills.com/wp-content/uploads/2020/01/narcosmexicoheader.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Protektor[/B]</name> 
+<thumbnail>https://i.wpimg.pl/0/389x600/i.wp.pl/a/f/film/008/16/62/0306216.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Protektor.m3u</externallink> 
+<fanart>https://i0.wp.com/2.bp.blogspot.com/-t9mymIGcErU/T4dsphQmI2I/AAAAAAAAAD8/YRtrT79BlJg/s1600/Safe-Movie.jpg?ssl=1</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Pulapka[/B]</name> 
+<thumbnail>https://ssl-gfx.filmweb.pl/po/96/21/809621/7856941.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Pulapka.m3u</externallink> 
+<fanart>https://ocdn.eu/images/pulscms/ZTY7MDA_/5669f15f1e4724273b27b18bcb36fa12.png</fanart> 
 <info></info> 
 </channel>
 
@@ -219,10 +299,46 @@
 
 <channels> 
 <channel> 
+<name>[B]W Domu - En Casa[/B]</name> 
+<thumbnail>https://govod.tv/media/th200/posters/19337.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_W_Domu_En%20Casa.m3u</externallink> 
+<fanart>https://govod.tv/media/th200/posters/19337.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]W Glebi Lasu[/B]</name> 
+<thumbnail>https://filman.cc/public/static/poster/big/2823-series.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_W_Glebi_Lasu.m3u</externallink> 
+<fanart>https://i.wpimg.pl/730x0/m.gadzetomania.pl/untitled-png-0f5c0365bbd1bcb2093.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Wataha[/B]</name> 
 <thumbnail>https://www.newsslash.com/images/upload/tag_teaser/5060-wataha.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Wataha.m3u</externallink> 
 <fanart>https://www.newsslash.com/images/upload/tag_teaser/5060-wataha.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Wiedzmin[/B]</name> 
+<thumbnail>https://ssl-gfx.filmweb.pl/po/44/64/724464/7905524.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Wiedzmin.m3u</externallink> 
+<fanart>https://hdtvpolska.com/wp-content/uploads/2019/12/Wied%C5%BAmin-Netflix-Ciri-3.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Warto się Starać[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/12/02/851202/7920775.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Warto_si%C4%99_Stara%C4%87.m3u</externallink> 
+<fanart>https://www.shopyourtv.com/wp-content/uploads/2020/05/trying.jpg</fanart> 
 <info></info> 
 </channel>
 
