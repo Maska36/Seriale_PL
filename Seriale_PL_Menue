@@ -49,7 +49,7 @@
 <channel> 
 <name>[B]Czarnobyl[/B]</name> 
 <thumbnail>https://www.gloskultury.pl/wp-content/uploads/2019/06/Czarnobyl-plakat.jpg</thumbnail> 
-<externallink>https://github.com/anton432/M3U/blob/master/Serial_Czarnobyl.m3u</externallink> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Czarnobyl.m3u</externallink> 
 <fanart>https://adeste.org/wp-content/uploads/2019/06/maxresdefault.jpg</fanart> 
 <info></info> 
 </channel>
