@@ -20,6 +20,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Berlinskie Psy / Dogs of Berlin[/B]</name> 
+<thumbnail>https://www.bravo.de/assets/field/image/dogs_of_berlin_netflix.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Berlinskie_Psy.m3u</externallink> 
+<fanart>https://s-cdn.serienjunkies.de/dogs-of-berlin/dogs-of-berlin.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Brytania[/B]</name> 
 <thumbnail>https://ssl-gfx.filmweb.pl/po/96/16/769616/7833954.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Brytania.m3u</externallink> 
@@ -128,6 +137,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Kobiety Mafii[/B]</name> 
+<thumbnail>https://assets.upflix.pl/media/plakat/2018/kobiety-mafii__300_427.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Kobiety_Mafii.m3u</externallink> 
+<fanart>https://ktosiek.pl/wp-content/uploads/2018/06/kobiety-mafii.png</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Kosmos[/B]</name> 
 <thumbnail>https://whatsondisneyplus.com/wp-content/uploads/2019/11/CA7B0C0F-06BA-4120-AA3E-D478BEEEF02D.jpeg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Kosmos.m3u</externallink> 
@@ -150,6 +168,15 @@
 <thumbnail>https://fwcdn.pl/fpo/58/60/35860/7290277.6.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Nikodema_Dyzmy.m3u</externallink> 
 <fanart>https://static.serialnet.pl/thumbs/kariera-nikodema-dyzmy.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Ostatni Taniec[/B]</name> 
+<thumbnail>https://movie2uhd.com/wp-content/uploads/2020/05/The-Last-Dance-201x300.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Ostatni_Taniec.m3u</externallink> 
+<fanart>https://universalnews.org/wp-content/uploads/2020/05/The-Last-Dance.jpg</fanart> 
 <info></info> 
 </channel>
 
@@ -213,6 +240,16 @@
 <thumbnail>https://ssl-gfx.filmweb.pl/po/96/21/809621/7856941.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Pulapka.m3u</externallink> 
 <fanart>https://ocdn.eu/images/pulscms/ZTY7MDA_/5669f15f1e4724273b27b18bcb36fa12.png</fanart> 
+<info></info> 
+</channel>
+
+
+<channels> 
+<channel> 
+<name>[B]Queen of the South[/B]</name> 
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/516KdchuvtL.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Queen_of_the_South.m3u</externallink> 
+<fanart>https://images-na.ssl-images-amazon.com/images/I/91CHaTp9VHL._RI_.jpg</fanart> 
 <info></info> 
 </channel>
 
