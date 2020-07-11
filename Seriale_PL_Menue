@@ -11,6 +11,15 @@
 
 <channels> 
 <channel> 
+<name>[B]1983[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/47/69/804769/7866076.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_1983.m3u</externallink> 
+<fanart>https://bi.im-g.pl/im/14/1b/17/z24227860V,1983.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Alternatywy 4[/B]</name> 
 <thumbnail>https://i.iplsc.com/andnbsp-blok-znany-z-serialu-alternatywy-4-obecnie-miesci-si/0000XW0QTTP394QE-C122-F4.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Alternatywy_4.m3u</externallink> 
@@ -42,6 +51,15 @@
 <thumbnail>https://ssl-gfx.filmweb.pl/po/25/39/812539/7870443.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Chylka_Zaginiecie.m3u</externallink> 
 <fanart>https://ocdn.eu/images/pulscms/NjI7MDA_/27105d569602e99784a820bc5f274c4a.jpeg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Chyłka Kasacja[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/34/67/843467/7904732.6.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Chy%C5%82ka_Kasacja.m3u</externallink> 
+<fanart>https://www.czytamykryminaly.pl/obrazki/image/chylka1.jpg</fanart> 
 <info></info> 
 </channel>
 
@@ -101,6 +119,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Grzesznica[/B]</name> 
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81NCgm4Y0sL.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Grzesznica.m3u</externallink> 
+<fanart>https://zazyjkultury.pl/wp-content/uploads/2018/09/grzesznica-fb.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Hollywood[/B]</name> 
 <thumbnail>https://ssl-gfx.filmweb.pl/po/30/64/833064/7915246.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Hollywood.m3u</externallink> 
@@ -150,6 +177,15 @@
 <thumbnail>https://whatsondisneyplus.com/wp-content/uploads/2019/11/CA7B0C0F-06BA-4120-AA3E-D478BEEEF02D.jpeg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Kosmos.m3u</externallink> 
 <fanart>https://i.ytimg.com/sh/g1ycRvRbf9IrHARO2Q0JZA/market.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Lepsi Niż My[/B]</name> 
+<thumbnail>https://fr.web.img2.acsta.net/pictures/19/08/21/16/56/5942452.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Lepsi_Ni%C5%BC_My.m3u</externallink> 
+<fanart>https://zalukaj.vip/wp-content/uploads/2019/10/better-than-us.jpg</fanart> 
 <info></info> 
 </channel>
 
@@ -250,6 +286,15 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/516KdchuvtL.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Queen_of_the_South.m3u</externallink> 
 <fanart>https://images-na.ssl-images-amazon.com/images/I/91CHaTp9VHL._RI_.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Rzym[/B]</name> 
+<thumbnail>https://offhandreviews.files.wordpress.com/2015/12/rome-season-1-poster.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Rzym.m3u</externallink> 
+<fanart>https://images-na.ssl-images-amazon.com/images/I/A1uEB0AdgqL._RI_.jpg</fanart> 
 <info></info> 
 </channel>
 
@@ -372,6 +417,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Zawsze Warto[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/92/26/829226/7897295.3.jpg</thumbnail> 
+<externallink>https://github.com/anton432/M3U/edit/master/Serial_Zawsze_Warto.m3u</externallink> 
+<fanart>https://csn.naekranie.pl/wp-content/uploads/2019/09/zawsze_5d7011cf26f12.jpeg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Warto się Starać[/B]</name> 
 <thumbnail>https://fwcdn.pl/fpo/12/02/851202/7920775.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Warto_si%C4%99_Stara%C4%87.m3u</externallink> 
@@ -394,5 +448,14 @@
 <thumbnail>https://i.iplsc.com/znaki-wyrezyserowali-jakub-miszczak-i-marcin-ziebinski/0007KDN879QWD3ER-C122-F4.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Znaki.m3u</externallink> 
 <fanart>https://i.iplsc.com/znaki-wyrezyserowali-jakub-miszczak-i-marcin-ziebinski/0007KDN879QWD3ER-C122-F4.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Żmijowisko[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/35/95/833595/7900065.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_%C5%BBmijowisko.m3u</externallink> 
+<fanart>https://www.rtvmaniak.pl/wp-content/uploads/rtvmaniak/2019/11/Zmijowisko_Canal.jpg</fanart> 
 <info></info> 
 </channel>
