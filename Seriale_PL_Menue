@@ -101,6 +101,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Dom z Papieru[/B]</name> 
+<thumbnail>https://s6.ifotos.pl/img/domzpap2j_qswwpwr.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Dom_z_Papieru.m3u</externallink> 
+<fanart>https://csn.naekranie.pl/wp-content/uploads/2020/03/Dom-z-papieru_5e81f04254661.jpeg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Gangs of London[/B]</name> 
 <thumbnail>https://ia601402.us.archive.org/12/items/sky-gangs-of-london/Sky_Gangs of London.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Gangs%20_of_London.m3u</externallink> 
@@ -421,6 +430,15 @@
 <thumbnail>https://fwcdn.pl/fpo/92/26/829226/7897295.3.jpg</thumbnail> 
 <externallink>https://github.com/anton432/M3U/edit/master/Serial_Zawsze_Warto.m3u</externallink> 
 <fanart>https://csn.naekranie.pl/wp-content/uploads/2019/09/zawsze_5d7011cf26f12.jpeg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Zero Zero Zero[/B]</name> 
+<thumbnail>https://cache.pressmailing.net/content/68631db6-f349-435f-a75a-8397dbdd45af/Sky_ZeroZeroZero_Poster.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Zero.m3u</externallink> 
+<fanart>https://cache.pressmailing.net/thumbnail/story_big/58d3cbae-7362-4eac-93ca-dda72c4b47f2/still.jpg</fanart> 
 <info></info> 
 </channel>
 
