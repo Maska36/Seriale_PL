@@ -74,6 +74,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Chyłka - Rewizja[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/87/99/848799/7933372.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Chy%C5%82ka_Rewizja.m3u</externallink> 
+<fanart>https://zalukaj.vip/wp-content/uploads/2020/10/Chy%C5%82ka.-Rewizja.png</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Czarne Chmury[/B]</name> 
 <thumbnail>https://static.punkt44.pl/grafika/produkty/midi/8801_0003.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Czarne_Chmury.m3u</externallink> 
