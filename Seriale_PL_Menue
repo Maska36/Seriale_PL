@@ -38,6 +38,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Botoks[/B]</name> 
+<thumbnail>https://i.iplsc.com/-/0006Q1FHXMCVB17V-C460.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Botoks.m3u</externallink> 
+<fanart>https://topmejt.co.uk/wp-content/uploads/2017/09/botoks-film-w-uk-800x500_c.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Brytania[/B]</name> 
 <thumbnail>https://ssl-gfx.filmweb.pl/po/96/16/769616/7833954.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Brytania.m3u</externallink> 
@@ -236,6 +245,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Polityka[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/31/72/833172/7894169.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Polityka.m3u</externallink> 
+<fanart>https://static.antyweb.pl/wp-content/uploads/2019/09/10171237/polityka.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Projekt Niewinność[/B]</name> 
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzNjYWI4MzYtMDI5Ni00Y2IyLTk4MGYtMGNlYmJlMjMwMGY0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Projekt_Niewinno%C5%9B%C4%87.m3u</externallink> 
@@ -313,6 +331,15 @@
 <thumbnail>https://fwcdn.pl/fpo/96/47/839647/7903503.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_See.m3u</externallink> 
 <fanart>https://i.ytimg.com/vi/7Rg0y7NT1gU/maxresdefault.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Solid Gold - Bez Skrupułów[/B]</name> 
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2M1ZGRhYzYtMTEwYi00NmIyLWE1ZWQtODAxNjJiNzIwMmY3XkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Solid_Gold.m3u</externallink> 
+<fanart>https://www.polishexpress.co.uk/media/cache/original/uploads/article/2019/11/solid-gold.jpg</fanart> 
 <info></info> 
 </channel>
 
