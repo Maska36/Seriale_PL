@@ -38,6 +38,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Billions[/B]</name> 
+<thumbnail>https://static.wikia.nocookie.net/billions/images/1/1e/S02.jpg/revision/latest?cb=20190424070304</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Billions.m3u</externallink> 
+<fanart>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/maxresdefault-1553957171.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Botoks[/B]</name> 
 <thumbnail>https://i.iplsc.com/-/0006Q1FHXMCVB17V-C460.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Botoks.m3u</externallink> 
