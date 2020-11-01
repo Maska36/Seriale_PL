@@ -471,6 +471,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Yellowstone[/B]</name> 
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjhkNWM1NTQtODI4NS00NzllLTg1ODAtYjg3N2QxZjc3ZjRiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Yellowstone.m3u</externallink> 
+<fanart>https://www.oracleglobe.com/wp-content/uploads/2019/09/91CTl8yIKZL._RI_.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Zawsze Warto[/B]</name> 
 <thumbnail>https://fwcdn.pl/fpo/92/26/829226/7897295.3.jpg</thumbnail> 
 <externallink>https://github.com/anton432/M3U/edit/master/Serial_Zawsze_Warto.m3u</externallink> 
