@@ -417,6 +417,15 @@
 
 <channels> 
 <channel> 
+<name>[B]The Alienist[/B]</name> 
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAyMDg5NjYzNTZeQTJeQWpwZ15BbWU4MDA2MTczMjQz._V1_.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_The_Alienist.m3u</externallink> 
+<fanart>https://www.staynerd.com/wp-content/uploads/imm-8-serie-tv.png</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Tulipan[/B]</name> 
 <thumbnail>https://fwcdn.pl/fpo/12/44/11244/7317254.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Tulipan.m3u</externallink> 
