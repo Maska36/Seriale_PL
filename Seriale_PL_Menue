@@ -218,6 +218,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Król[/B]</name> 
+<thumbnail>https://i.datapremiery.pl/1/000/17/437/krol-sezon-1-season-1-cover-okladka.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Kr%C3%B3l.m3u</externallink> 
+<fanart>https://www.granice.pl/sys6/pliki/text/28/07/2020/37b0922ea4c35a4eb8b1a9ffe3678e10.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Lepsi Niż My[/B]</name> 
 <thumbnail>https://fr.web.img2.acsta.net/pictures/19/08/21/16/56/5942452.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Lepsi_Ni%C5%BC_My.m3u</externallink> 
