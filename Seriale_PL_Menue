@@ -540,3 +540,12 @@
 <fanart>https://www.rtvmaniak.pl/wp-content/uploads/rtvmaniak/2019/11/Zmijowisko_Canal.jpg</fanart> 
 <info></info> 
 </channel>
+
+<channels> 
+<channel> 
+<name>[B]Żywioły Saszy – Ogień[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/86/98/858698/7937239.6.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_%C5%BBywio%C5%82y_Saszy_Ogie%C5%84.m3u</externallink> 
+<fanart>https://hdtvpolska.com/wp-content/uploads/2020/11/1.jpg</fanart> 
+<info></info> 
+</channel>
