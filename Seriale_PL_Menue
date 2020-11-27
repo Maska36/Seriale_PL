@@ -29,6 +29,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Barbarzyńcy[/B]</name> 
+<thumbnail>https://cont3.naekranie.pl/wp-content/uploads/2020%2F10%2Fbarbarzyncy%20plakat_5f841e539201d.jpeg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Barbarzy%C5%84cy.m3u</externallink> 
+<fanart>https://cont3.naekranie.pl/media%2Fcache%2Farticle-cover%2F2020%2F10%2Fbarba_5f96aa9f10ded.jpeg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Berlinskie Psy / Dogs of Berlin[/B]</name> 
 <thumbnail>https://www.bravo.de/assets/field/image/dogs_of_berlin_netflix.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Berlinskie_Psy.m3u</externallink> 
