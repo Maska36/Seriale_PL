@@ -101,6 +101,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Ciężarówką przez Indonezję[/B]</name> 
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4NLXIKmYlpYDrqEHQW_aC5j1YM7X05b4JiA&usqp=CAU</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Ci%C4%99%C5%BCar%C3%B3wk%C4%85_przez_Indonezj%C4%99.m3u</externallink> 
+<fanart>https://zalukaj.vip/wp-content/uploads/2020/07/Ci%C4%99%C5%BCar%C3%B3wk%C4%85-przez-Indonezj%C4%99.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Czarne Chmury[/B]</name> 
 <thumbnail>https://static.punkt44.pl/grafika/produkty/midi/8801_0003.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Czarne_Chmury.m3u</externallink> 
