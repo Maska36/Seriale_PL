@@ -263,6 +263,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Okręt - Das Boot[/B]</name> 
+<thumbnail>https://csn.naekranie.pl/wp-content/uploads/2018/11/Okr%C4%99t-7.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Okr%C4%99t_Das%20_Boot.m3u</externallink> 
+<fanart>https://media2.pl/g/750/68833.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Ostatni Taniec[/B]</name> 
 <thumbnail>https://movie2uhd.com/wp-content/uploads/2020/05/The-Last-Dance-201x300.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Ostatni_Taniec.m3u</externallink> 
