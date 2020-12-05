@@ -480,6 +480,15 @@
 
 <channels> 
 <channel> 
+<name>[B]The Crown[/B]</name> 
+<thumbnail>https://static.kino.de/wp-content/uploads/2017/01/The-Crown-Staffel-2-Poster-1.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_The_Crown.m3u</externallink> 
+<fanart>https://4001reviews.de/wp-content/uploads/2018/09/Titelbild-zur-Zusammenfassung-The-Crown-Staffel2-805x471-2.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Tulipan[/B]</name> 
 <thumbnail>https://fwcdn.pl/fpo/12/44/11244/7317254.3.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Tulipan.m3u</externallink> 
